@@ -1,14 +1,8 @@
 # CoffeeGit ☕🫘
 
-<hr>
-
 <h2>Summary</h2>
 
-<hr>
-
-Our Project create to assess the quality of green coffee beans, aiding suppliers or farmers in ensuring the quality of their green beans.
-
-<hr>
+<p>Our Project create to assess the quality of green coffee beans, aiding suppliers or farmers in ensuring the quality of their green beans.</p>
 
 <h2>Member 🙋‍♀️</h2>
     <table border="1">
