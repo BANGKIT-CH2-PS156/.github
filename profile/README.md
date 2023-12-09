@@ -2,7 +2,7 @@
 
 <hr>
 
-Summary
+<h2>Summary</h2>
 
 <hr>
 
@@ -10,7 +10,7 @@ Our Project create to assess the quality of green coffee beans, aiding suppliers
 
 <hr>
 
-<h3>Member 🙋‍♀️</h3>
+<h2>Member 🙋‍♀️</h2>
     <table border="1">
       <thead style="text-align: center;">
         <tr>
@@ -74,7 +74,7 @@ Our Project create to assess the quality of green coffee beans, aiding suppliers
       </tbody>
     </table>
 
-<h3>How to Use App</h3>
+<h2>How to Use App</h2>
 
 
 
