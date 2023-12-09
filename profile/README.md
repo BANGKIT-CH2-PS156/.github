@@ -2,6 +2,14 @@
 
 <hr>
 
+Summary
+
+<hr>
+
+Our Project create to assess the quality of green coffee beans, aiding suppliers or farmers in ensuring the quality of their green beans.
+
+<hr>
+
 <h3>Member 🙋‍♀️</h3>
     <table border="1">
       <thead style="text-align: center;">
