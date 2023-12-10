@@ -139,7 +139,7 @@
     </tbody>
 </table>
 
-<h2>How to Use App 🚀</h2>
+<h2>Preview App 🚀</h2>
 
 
 
