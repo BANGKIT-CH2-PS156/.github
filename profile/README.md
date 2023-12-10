@@ -74,9 +74,9 @@
 <table>
     <thead>
         <tr>
-            <td width="30%">Role</td>
-            <td width="30%">Tools/IDE/Library</td>
-            <td width="40%">Resources</td>
+            <td width="15%">Role</td>
+            <td width="15%">Tools/IDE/Library</td>
+            <td width="70%">Resources</td>
         </tr>
     </thead>
     <tbody>
