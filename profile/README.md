@@ -81,26 +81,26 @@
     </thead>
     <tbody>
         <tr>
-            <td rowspan="3">Machine Learning</td>
+            <td rowspan="4">Machine Learning</td>
             <td>Git/GitHub</td>
-            <td>Good Green Bean Coffee Dataset
+            <td rowspan="2">Good Green Bean Coffee Dataset
                 The dataset obtained from Kaggle.com is used to train the machine to know what the shape/image of a good green coffee bean looks like.
             </td>
         </tr>
         <tr>            
             <td>Google Colaboratory</td>
-            <td>Bad Green Bean Coffee Dataset
-                The dataset obtained from Kaggle.com is used to train the machine to know what the shape/image of a bad green coffee bean looks like.
-            </td>
         </tr>
         <tr>            
             <td>Tensorflow</td>
+            <td rowspan="2">Bad Green Bean Coffee Dataset
+                The dataset obtained from Kaggle.com is used to train the machine to know what the shape/image of a bad green coffee bean looks like.
+            </td>
         </tr>
         <tr>            
             <td>Python</td>
         </tr>
         <tr>
-            <td>Mobile Development</td>
+            <td rowspan="5">Mobile Development</td>
             <td>Git/GitHub</td>
             <td>-</td>
         </tr>
@@ -117,7 +117,7 @@
             <td>Kotlin</td>
         </tr>
         <tr>
-            <td>Cloud Computing</td>
+            <td rowspan="6">Cloud Computing</td>
             <td>Git/GitHub</td>
             <td>-</td>
         </tr>
