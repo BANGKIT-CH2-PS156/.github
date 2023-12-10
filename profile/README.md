@@ -1,10 +1,10 @@
 # CoffeeGit ☕🫘
 <p>Our Project create to assess the quality of green coffee beans, aiding suppliers or farmers in ensuring the quality of their green beans coffee.</p>
 
-<h2>Introduction 🚀</h2>
-Hi everyone! We are from CH2-PS156, nice to meet you: 👋 
+<h2>Introduction 👋</h2>
+<p>Hi everyone! We are from CH2-PS156, nice to meet you:  </p>
     <table border="1">
-      <thead style="text-align: center;">
+      <thead>
         <tr>
           <td>ID</td>
           <td>Name</td>
@@ -66,7 +66,80 @@ Hi everyone! We are from CH2-PS156, nice to meet you: 👋
       </tbody>
     </table>
 
-<h2>How to Use App</h2>
+<h2>Themes Project 🚀</h2>
+<p>Food Accessibility, Agribusiness, Food Security</p>
+
+<h2>Tools/IDE/Library/Resources 🍿</h2>
+<p>Our Tools, IDE, Library and Resources, based on our team's knowledge,</p>
+<table>
+    <thead>
+        <tr>
+            <td>Role</td>
+            <td>Tools/IDE/Library</td>
+            <td>Resources</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="3">Machine Learning</td>
+            <td>Git/GitHub</td>
+            <td>Good Green Bean Coffee Dataset
+                The dataset obtained from Kaggle.com is used to train the machine to know what the shape/image of a good green coffee bean looks like.
+            </td>
+        </tr>
+        <tr>            
+            <td>Google Colaboratory</td>
+            <td>Bad Green Bean Coffee Dataset
+                The dataset obtained from Kaggle.com is used to train the machine to know what the shape/image of a bad green coffee bean looks like.
+            </td>
+        </tr>
+        <tr>            
+            <td>Tensorflow</td>
+        </tr>
+        <tr>            
+            <td>Python</td>
+        </tr>
+        <tr>
+            <td>Mobile Development</td>
+            <td>Git/GitHub</td>
+            <td>-</td>
+        </tr>
+        <tr>            
+            <td>Android Studio</td>
+        </tr>
+        <tr>            
+            <td>Retrofit</td>
+        </tr>
+        <tr>            
+            <td>Zulu JDK</td>
+        </tr>
+        <tr>            
+            <td>Kotlin</td>
+        </tr>
+        <tr>
+            <td>Cloud Computing</td>
+            <td>Git/GitHub</td>
+            <td>-</td>
+        </tr>
+        <tr>            
+            <td>Visual Studio Code</td>
+        </tr>
+        <tr>            
+            <td>Postman</td>
+        </tr>
+        <tr>            
+            <td>Google Cloud Platform</td>
+        </tr>
+        <tr>            
+            <td>ExpressJS Framework</td>
+        </tr>
+        <tr>            
+            <td>Flask Framework</td>
+        </tr>
+    </tbody>
+</table>
+
+<h2>How to Use App 🚀</h2>
 
 
 
