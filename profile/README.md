@@ -74,9 +74,9 @@
 <table>
     <thead>
         <tr>
-            <td>Role</td>
-            <td>Tools/IDE/Library</td>
-            <td>Resources</td>
+            <td width="30%">Role</td>
+            <td width="30%">Tools/IDE/Library</td>
+            <td width="40%">Resources</td>
         </tr>
     </thead>
     <tbody>
@@ -102,7 +102,7 @@
         <tr>
             <td rowspan="5">Mobile Development</td>
             <td>Git/GitHub</td>
-            <td>-</td>
+            <td rowspan="5">-</td>
         </tr>
         <tr>            
             <td>Android Studio</td>
@@ -119,7 +119,7 @@
         <tr>
             <td rowspan="6">Cloud Computing</td>
             <td>Git/GitHub</td>
-            <td>-</td>
+            <td rowspan="6">-</td>
         </tr>
         <tr>            
             <td>Visual Studio Code</td>
