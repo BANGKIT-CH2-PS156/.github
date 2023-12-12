@@ -7,10 +7,10 @@
       <thead>
         <tr>
           <td width="15%">ID</td>
-          <td width="15%">Name</td>
+          <td width="20%">Name</td>
           <td width="20%">Learning Path</td>
           <td width="20%">University</td>
-          <td width="30%">LinkedIn</td>
+          <td width="25%">LinkedIn</td>
         </tr>
       </thead>
       <tbody>
