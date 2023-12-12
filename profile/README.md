@@ -1,31 +1,9 @@
 # CoffeeGit ☕🫘
 <p>Our Project create to assess the quality of green coffee beans, aiding suppliers or farmers in ensuring the quality of their green beans coffee.</p>
 
-<style>
-  table {
-    border-collapse: collapse;
-  }
-
-  th, td {
-    text-align: center; /* Pusatkan teks di sel header dan sel data */
-  }
-
-  th {
-    background-color: #f2f2f2; /* Warna latar belakang untuk sel header */
-  }
-
-  tr:nth-child(even) {
-    background-color: #f9f9f9; /* Warna latar belakang untuk baris genap */
-  }
-
-  tr:hover {
-    background-color: #f5f5f5; /* Warna latar belakang saat mouse hover pada baris */
-  }
-</style>
-
 <h2>Introduction 👋</h2>
 <p>Hi everyone! We are from CH2-PS156, nice to meet you:  </p>
-    <table border="1">
+    <table align="center">
       <thead>
         <tr>
           <td width="15%">ID</td>
@@ -114,7 +92,7 @@
 
 <h2>Tools/IDE/Library/Resources 🍿</h2>
 <p>Our Tools, IDE, Library and Resources, based on our team's knowledge,</p>
-<table>
+<table align="center">
     <thead>
         <tr>
             <td width="20%">Role</td>
