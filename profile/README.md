@@ -20,7 +20,7 @@
           <td>Mobile Development</td>
           <td>Universitas Pembangunan Nasional Veteran Jawa Timur</td>
           <td>
-              <a href="https://www.linkedin.com/in/tegaradiwcksn/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a> | 
+              <a href="https://www.linkedin.com/in/tegaradiwcksn/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
               <a href="https://github.com/alexcristh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
           </td>
         </tr>
@@ -30,7 +30,7 @@
           <td>Mobile Development</td>
           <td>STKIP Nasional</td>
           <td>
-              <a href="https://www.linkedin.com/in/ernawati-purnama-zebua-9a2b15254/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a> | 
+              <a href="https://www.linkedin.com/in/ernawati-purnama-zebua-9a2b15254/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
               <a href="https://github.com/Ernapz15"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
           </td>
         </tr>
@@ -40,7 +40,7 @@
           <td>Cloud Computing</td>
           <td>Universitas Riau</td>
           <td>
-              <a href="https://www.linkedin.com/in/muhammad-hafizh-792384289/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a> | 
+              <a href="https://www.linkedin.com/in/muhammad-hafizh-792384289/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
               <a href="https://github.com/mhafizh1201"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
           </td>
         </tr>
@@ -50,7 +50,7 @@
           <td>Cloud Computing</td>
           <td>Universitas Nurdin Hamzah</td>
           <td>
-              <a href="https://www.linkedin.com/in/fajri-arvandi"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a> | 
+              <a href="https://www.linkedin.com/in/fajri-arvandi"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
               <a href="https://github.com/fajrCode"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
           </td>
         </tr>
@@ -60,7 +60,7 @@
           <td>Machine Learning</td>
           <td>Universitas Negeri Padang</td>
           <td>
-              <a href="https://www.linkedin.com/in/nichoryjo/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a> | 
+              <a href="https://www.linkedin.com/in/nichoryjo/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
               <a href="https://github.com/DawnLight14"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
           </td>
         </tr>
@@ -70,7 +70,7 @@
           <td>Machine Learning</td>
           <td>Universitas Negeri Padang</td>
           <td>
-              <a href="https://www.linkedin.com/in/revizadekry23/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a> | 
+              <a href="https://www.linkedin.com/in/revizadekry23/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
               <a href="https://github.com/Reviza2308"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
           </td>
         </tr>
@@ -80,7 +80,7 @@
           <td>Machine Learning</td>
           <td>Universitas Riau</td>
           <td>
-              <a href="https://www.linkedin.com/in/fadhil-pratama/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a> | 
+              <a href="https://www.linkedin.com/in/fadhil-pratama/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
               <a href="https://github.com/dildil07"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
           </td>
         </tr>
