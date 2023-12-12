@@ -40,7 +40,7 @@
           <td>Fajri Arvandi</td>
           <td>Cloud Computing</td>
           <td>Universitas Nurdin Hamzah</td>
-          <td><a href="https://www.linkedin.com/in/fajri-arvandi"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" width=5%></a></td>
+          <td><a href="https://www.linkedin.com/in/fajri-arvandi"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" width=50%></a></td>
         </tr>
         <tr>
           <td>M282BSY1625</td>
