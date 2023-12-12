@@ -19,7 +19,7 @@
           <td>Tegar Adi Wicaksono</td>
           <td>Mobile Development</td>
           <td>Universitas Pembangunan Nasional Veteran Jawa Timur</td>
-          <td><a href="https://www.linkedin.com/in/tegaradiwcksn/">LinkedIn</a></td>
+          <td>[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/tegaradiwcksn/)</td>
         </tr>
         <tr>
           <td>A662BSX2485</td>
