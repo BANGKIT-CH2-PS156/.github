@@ -6,11 +6,11 @@
     <table border="1">
       <thead>
         <tr>
-          <td>ID</td>
-          <td>Name</td>
-          <td>Learning Path</td>
-          <td>University</td>
-          <td>LinkedIn</td>
+          <td width="20%">ID</td>
+          <td width="20%">Name</td>
+          <td width="20%">Learning Path</td>
+          <td width="20%">University</td>
+          <td width="20%">LinkedIn</td>
         </tr>
       </thead>
       <tbody>
