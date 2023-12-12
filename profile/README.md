@@ -19,21 +19,21 @@
           <td>Tegar Adi Wicaksono</td>
           <td>Mobile Development</td>
           <td>Universitas Pembangunan Nasional Veteran Jawa Timur</td>
-          <td>LinkedIn</td>
+          <td><a href="https://www.linkedin.com/in/tegaradiwcksn/">LinkedIn</a></td>
         </tr>
         <tr>
           <td>A662BSX2485</td>
           <td>Ernawati Purnama Zebua</td>
           <td>Mobile Development</td>
           <td>STKIP Nasional</td>
-          <td>LinkedIn</td>
+          <td><a href="https://www.linkedin.com/in/ernawati-purnama-zebua-9a2b15254/">LinkedIn</a></td>
         </tr>
         <tr>
           <td>C308BSY3213</td>
           <td>Muhammad Hafizh</td>
           <td>Cloud Computing</td>
           <td>Universitas Riau</td>
-          <td>LinkedIn</td>
+          <td><a href="https://www.linkedin.com/in/muhammad-hafizh-792384289/">LinkedIn</a></td>
         </tr>
         <tr>
           <td>C614BSY3787</td>
@@ -47,21 +47,21 @@
           <td>Nicholas Ryan Jonathan</td>
           <td>Machine Learning</td>
           <td>Universitas Negeri Padang</td>
-          <td>LinkedIn</td>
+          <td><a href="https://www.linkedin.com/in/nichoryjo/">LinkedIn</a></td>
         </tr>
         <tr>
           <td>M282BSY1222</td>
           <td>Muhammad Reviza Dekry</td>
           <td>Machine Learning</td>
           <td>Universitas Negeri Padang</td>
-          <td>LinkedIn</td>
+          <td><a href="https://www.linkedin.com/in/revizadekry23/">LinkedIn</a></td>
         </tr>
         <tr>
           <td>M308BSY1295</td>
           <td>M Fadhil Pratama</td>
           <td>Machine Learning</td>
           <td>Universitas Riau</td>
-          <td>LinkedIn</td>
+          <td><a href="https://www.linkedin.com/in/fadhil-pratama/">LinkedIn</a></td>
         </tr>
       </tbody>
     </table>
