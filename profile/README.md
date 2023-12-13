@@ -1,4 +1,4 @@
-# CoffeeGit ☕🫘
+# ☕🫘 CoffeeGit 🫘☕
 <p>Our Project create to assess the quality of green coffee beans, aiding suppliers or farmers in ensuring the quality of their green beans coffee.</p>
 
 <h2>Introduction 👋</h2>
@@ -87,10 +87,10 @@
       </tbody>
     </table>
 
-<h2>Themes Project 🚀</h2>
+<h2>Themes Project 🌐</h2>
 <p>Food Accessibility, Agribusiness, Food Security</p>
 
-<h2>Tools/IDE/Library/Resources 🍿</h2>
+<h2>Tools/IDE/Library/Resources ⚙️</h2>
 <p>Our Tools, IDE, Library and Resources, based on our team's knowledge,</p>
 <table align="center">
     <thead>
@@ -160,16 +160,14 @@
     </tbody>
 </table>
 
-<h2>Preview App 🚀</h2>
+<h2>Preview App 📱</h2>
+<p>...</p>
 
+<h2>Mobile Development Resource 📱</h2>
+<p>...</p>
 
+<h2>Cloud Computing Resource ☁️</h2>
+<p>...</p>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h2>Machine Learning Resource 🧠</h2>
+<p>...</p>
