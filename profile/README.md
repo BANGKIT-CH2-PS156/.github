@@ -161,13 +161,13 @@
 </table>
 
 <h2>Preview App 📱</h2>
-<p>...</p>
+<p></p>
 
 <h2>Mobile Development Resource 📱</h2>
-<p>...</p>
+<p>see more: <a href="https://github.com/BANGKIT-CH2-PS156/MD">CoffeeGit Mobile Development</a> </p>
 
 <h2>Cloud Computing Resource ☁️</h2>
-<p>...</p>
+<p>see more: <a href="https://github.com/BANGKIT-CH2-PS156/CC">CoffeeGit Cloud Computing</a></p>
 
 <h2>Machine Learning Resource 🧠</h2>
-<p>...</p>
+<p>see more: <a href="https://github.com/BANGKIT-CH2-PS156/ML">CoffeeGit Machine Learning</a></p>
